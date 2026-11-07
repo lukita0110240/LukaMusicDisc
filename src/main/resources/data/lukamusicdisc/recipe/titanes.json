@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "B": "minecraft:blue_wool",
+    "C": "minecraft:white_concrete"
+  },
+  "result": {
+    "id": "lukamusicdisc:titanes",
+    "count": 1
+  }
+}
