@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[64,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="lukamusicdisc"
+version="${mod_version}"
+displayName="LukaMusicDisc"
+authors="Luka"
+description='''
+Adds the Titanes custom music disc for vanilla jukeboxes.
+'''
+
+[[dependencies.lukamusicdisc]]
+modId="forge"
+mandatory=true
+versionRange="[64.0.4,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.lukamusicdisc]]
+modId="minecraft"
+mandatory=true
+versionRange="[26.1.2,26.2)"
+ordering="NONE"
+side="BOTH"
