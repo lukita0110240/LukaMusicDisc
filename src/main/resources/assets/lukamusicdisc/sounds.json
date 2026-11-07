@@ -1,0 +1,10 @@
+{
+  "music_disc.titanes": {
+    "sounds": [
+      {
+        "name": "lukamusicdisc:titanes",
+        "stream": true
+      }
+    ]
+  }
+}
