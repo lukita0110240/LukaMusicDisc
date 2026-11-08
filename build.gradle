@@ -14,7 +14,7 @@ minecraft {
     mappings channel: 'official', version: minecraft_version
     runs {
         configureEach {
-            workingDirectory project.file('run')
+            workingDir = project.file('run')
             mods {
                 "${mod_id}" { source sourceSets.main }
             }
